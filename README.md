@@ -1,2 +1,2 @@
-# lotto_simulation
-🎰  python을 이용한 lotto simulation
+# lottery_simulator
+🎰_python을 이용한 lottery_simulator
