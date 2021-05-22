@@ -44,7 +44,7 @@ print(winning_number())
 
 
 #  당첨확인
-def check(generate_num, winning_num):
+def num_check(generate_num, winning_num):
     matching_number = set(generate_num) & set(winning_num[:6])
     cnt_matching_number = len(matching_number)
     # 1등(6개 일치)
